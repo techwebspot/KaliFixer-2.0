@@ -291,7 +291,7 @@ function menu() {
 	printf "\033[0;31m3)  \033[0;33mAllow VLC to Run As Root User\t\t\033[0m\033[0;31m4)  \033[0;33mStart Sound Volume Ajuster ( alsamixer )\n"
 	printf "\033[0;31m5)  \033[0;33mAdd a new user\t\t\t\t\033[0m\033[0;31m6)  \033[0;33mProvide Existing User With SUDO Priviliges\n"
 	printf "\033[0;31m7)  \033[0;33mDelete Existing User\t\t\t\033[0m\033[0;31m8)  \033[0;33mInstall Teamvieweri386 for Debian\n"
-	printf "\033[0;31m9)  \033[0;33mUpdate All Repositories\t\t\t\033[0m\033[0;31m10) \033[0;33mUpgrade All Modules\n"
+	printf "\033[0;31m9)  \033[0;33mUpdate All Repositories\t\t\t\033[0m\033[0;31m10) \033[0;33mUpgrade All Package and Distro\n"
 
 }
 
