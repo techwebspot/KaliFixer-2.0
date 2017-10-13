@@ -46,7 +46,7 @@ This script will first find the version of Kali using kernel headers of your Kal
 ```
 cd ~/Downloads
 git clone https://github.com/techwebspot/KaliFixer.git
-cd KaliFixer-master
+cd KaliFixer-2.0-master
 chmod +x install.sh
 KaliFixer
 ```
